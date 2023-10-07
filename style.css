@@ -129,6 +129,10 @@ body {
   align-items: center;
 }
 
+#close {
+  display: none;
+}
+
 /* HOME PAGE */
 #hero {
   background-image: url('img/hero4.png');
@@ -576,5 +580,18 @@ footer .copyright {
     color: #1a1a1a;
     font-size: 24px;
     padding-left: 24px;
+  }
+
+  #close {
+    display: initial;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: #222;
+    font-size: 24px;
+  }
+
+  #lg-bag {
+    display: none;
   }
 }
