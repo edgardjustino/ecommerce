@@ -748,3 +748,30 @@ footer .copyright {
     text-align: start;
   }
 }
+
+/* _____ SINGLE PRODUCT _____ */
+
+#prodetails .single-pro-image {
+  width: 40%;
+  margin-right: 50px;
+}
+
+.small-img-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.small-img-col {
+  flex-basis: 24%;
+  cursor: pointer;
+}
+
+/* _____ BLOG PAGE _____ */
+
+/* _____ ABOUT PAGE _____ */
+
+/* _____ CONTACT PAGE _____ */
+
+/* _____ CART PAGE _____ */
+
+/* _____ MEDIA QUERY _____ */
